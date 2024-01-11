@@ -13,7 +13,7 @@ function showResult(name, gender, probability) {
         genderDecode = "Cewek";
     }
 
-    const predictionsText = `Halo ${name}, jenis kelamin kamu kemungkinan adalah ${genderDecode} sebesar ${probabilityPercentage}`;
+    const predictionsText = `Halo ${name}, jenis kelamin kamu kemungkinan adalah ${genderDecode} sebesar ${probabilityPercentage}%`;
 
     
     
